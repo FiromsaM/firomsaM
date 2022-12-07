@@ -19,7 +19,47 @@ See [my website](https://firomsa.netlify.app/) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2"
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Full Stack Social Media Application</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/FiromsaM/Full-Stack-Social-Media-App" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Bootstrap, Mongoose, Node.js, & Express.js</strong> - Fullstack Social media application</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Happy Notes</h3>
+        <br />
+      <a target="_blank" href="#">
+            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/FiromsaM/Happy-Notes" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, cloudinary, Node.js, DaisyUI, Express.js</strong> - Users can login to their profile and find their list of notes. They can add new notes through an input, which they can then edit or delete all notes in their profile.</p>
+    </td>
+  </tr>
   
+       
+       
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">firomsa.netlify.app/</h3>
