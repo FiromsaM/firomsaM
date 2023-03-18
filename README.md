@@ -12,7 +12,17 @@
   </a>
 </p>
 
-I am motivated by the power of technology as a tool for positive change, with a background in healthcare.
+Welcome to my about page! My name is Firomsa Mahamud, and I am a software engineer with a passion for solving problems and creating innovative solutions.<br>
+
+My journey to becoming a software engineer has been an unconventional one. After working in the medical field for several years, I discovered my interest in technology and decided to pursue a career in software engineering. Since then, I have dedicated myself to mastering the craft and developing my skills.<br>
+
+As a software engineer, I approach every problem with a curious and analytical mindset. I love to explore new technologies and experiment with different tools and techniques to find the best solution for the job. I am passionate about creating software that is both functional and user-friendly, and I always strive to exceed expectations.<br/>
+
+One thing that sets me apart as a software engineer is my commitment to building a strong sense of community within the tech industry. I believe that collaboration and communication are key to driving innovation and pushing the boundaries of what is possible. I am always looking for opportunities to connect with other developers and share my knowledge and experiences.<br/>
+
+In my free time, you can often find me tinkering with personal projects or participating in hackathons and coding challenges. I am always eager to learn and grow as a software engineer, and I believe that there is always something new to discover.<br/>
+
+Thank you for taking the time to learn more about me and my passion for software engineering. I look forward to connecting with you and exploring the exciting world of technology together!<br/>
 
 See [my website](https://firomsa.netlify.app/) for more information!
 
@@ -21,10 +31,28 @@ See [my website](https://firomsa.netlify.app/) for more information!
 <table bordercolor="#66b2b2"
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Full Stack Social Media Application</h3>
+      <h3 align="center">HoustonUmmah</h3>
         <br />
-        <a target="_blank" href="#">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://www.houstonummah.com/">
+            <img src="images/gif1.gif" width="100%" alt=""/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/FiromsaM/Houston-Ummah" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://www.houstonummah.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Bootstrap, Mongoose, Node.js, & Express.js</strong> - Houston Ummah provides a user-friendly platform for the Muslim community to access information about all Islamic events happening in Houston. Our website also offers a platform for Masjids and organizations to promote their events and reach a wider audience. We regularly update our website with new events, so check back often.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Binary Upload Boom</h3>
+        <br />
+        <a target="_blank" href="https://binary-upload-boom.cyclic.app/">
+            <img src="images/gif1.gif" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
@@ -32,29 +60,11 @@ See [my website](https://firomsa.netlify.app/) for more information!
   <a href="https://github.com/FiromsaM/Full-Stack-Social-Media-App" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://binary-upload-boom.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Mongoose, Node.js, & Express.js</strong> - Fullstack Social media application</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Happy Notes</h3>
-        <br />
-      <a target="_blank" href="#">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/FiromsaM/Happy-Notes" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, cloudinary, Node.js, DaisyUI, Express.js</strong> - Users can login to their profile and find their list of notes. They can add new notes through an input, which they can then edit or delete all notes in their profile.</p>
+        <p><strong>Javascript, Bootstrap, Mongoose, Node, Cloudinary, & Express</strong> - Binary Upload Boom is a free social media web application that allows users to easily share photos with their friends and followers. With Binary Upload Boom, you can upload photos, like and comment on posts, and manage your content.</p>
     </td>
   </tr>
   
@@ -62,24 +72,25 @@ See [my website](https://firomsa.netlify.app/) for more information!
        
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">firomsa.netlify.app/</h3>
-      <br />
-        <a target="_blank" href="https://firomsa.netlify.app/">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+      <h3 align="center">Happy Notes</h3>
+        <br />
+      <a target="_blank" href="https://happy-notes.cyclic.app/">
+            <img src="images/gif2.gif" width="100%"  alt="Happy Notes"/>
         </a>
-      <br />
+        <br />
         <p align="center">
-  <a href="https://github.com/FiromsaM/Portfolio" target="_blank">
+          
+  <a href="https://github.com/FiromsaM/Happy-Notes" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://firomsa.netlify.app/" target="_blank">
+  <a href="https://happy-notes.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>Javascript, Node, DaisyUI, Express, MongoDB, Express</strong> - Happy Notes is a user-friendly to-do app that lets you log in to your profile, add new notes, and edit or delete them. It's perfect for anyone looking to stay organized and productive, with a clean and modern interface that makes it easy to manage your to-do list.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">My Athan</h3>
+      <h3 align="center">Prayer Pal</h3>
         <br />
         <a target="_blank" href="https://myathan.netlify.app/">
           <img src="images/gif3.gif" width="100%" alt="Athan App"/>
@@ -87,14 +98,14 @@ See [my website](https://firomsa.netlify.app/) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/FiromsaM/Adhan-api.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://myathan.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Be up to date on your prayer time daily</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Prayer Pal is the ultimate prayer companion app that helps you stay on top of your daily prayers by providing the most accurate prayer times. With Prayer Pal, you never have to worry about missing a prayer again. The app provides a convenient and easy-to-use interface for tracking your daily prayers. Whether you're traveling or at home, Athan ensures that you always have access to the most accurate prayer times, no matter where you are in the world.</p>
     </td>
   </tr>
 </table>
